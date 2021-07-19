@@ -1,5 +1,5 @@
 # web-scraping-patagonia
-Web Scrape of Black Hole Duffel Bags on Patagonia's website
+Web Scrape of Black Hole Duffel Bags Product Info and Men's Better Sweater Customer Reviews on Patagonia's website.
 
 This code uses the Beatiful Soup package to web scrape information from Patagonia's website.
 BeautifulSoup is a good way to parse HTML.
